@@ -4,6 +4,9 @@
 {"_id.vendorId" : "3c5eece4-ac37-44e3-a95e-a264802a7dfe", "_id.id" : "39915663000171", sku : { $in: [ "000000000000500732", "000000000000500377" ] } }
 {"_id.vendorId" : "3c5eece4-ac37-44e3-a95e-a264802a7dfe", "_id.id" : "44615334000145", sku : { $in: [ "000000000000141698", "000000000000475805", "000000000000459183" ] } }
 
+--Items
+
+{name: /Presunto Cozido Perdigão 3,4kg -Caixa/}
 
 -- NewRelic
 
