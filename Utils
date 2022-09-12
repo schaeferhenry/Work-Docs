@@ -11,3 +11,9 @@
 -- NewRelic
 
 requestTraceId: *983fec26-5c40-4e6e-a21c-3d9196ba01da*
+
+
+--Deals
+
+** o cliente tem Deals cadastrado pra esse produto?
+{"_id.id" : "67751792000107", "_id.vendorId" : "c4c09157-d045-4271-8c18-d8b99187fd00", deleted : false, "conditions.multipleLineItem.items.vendorItemIds" : { $in: ["000000000000305669"]}}
